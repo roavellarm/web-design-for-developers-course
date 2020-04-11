@@ -40,6 +40,20 @@ encouraged if you don't konw what you are doing.
 - The image suddenly fades towards black at the botton with text written over it.
   ![images10](assets/images10.png)
 
+## Use CSS To Work With Images
+
+To achieve the text-on-image effects I showed you before, you can use CSS for your websites. Here is example CSS code for some of the effects. Please change it according to your needs.
+
+### **Overlay the image**
+
+```CSS
+.darken {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(YOUR IMAGE HERE);
+}
+```
+
+Example: http://jsfiddle.net/drpak8vy/1/
+
 ## Some references
 
 - Basically all free images in one place:  
