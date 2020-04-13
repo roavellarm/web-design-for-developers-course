@@ -13,6 +13,8 @@ The course has the following contents:
 - [Getting inspired](classes/07_getting_inspired.md)
 - [Your website conversion](classes/08_improve_your_website_conversion.md)
 
+<br>
+
 Here is a resume of this course:
 
 # Wrapping Up What You'll Learn
@@ -31,15 +33,17 @@ Here is a resume of this course:
 
 - It is very important that you get inspired by studying well-designed websites from other designers.
 
+<br>
+
 # The Ultimate Cheatsheet:
 
 ## All Guidelines In One Place
 
 This cheat sheet is intended to serve as a quick reference for you.
-
 It contains all the guidelines I showed you in this course.
-
 It is very important that you have all of the guidelines in mind at the same time when you're making your designs.
+
+<br>
 
 ## Beautiful Typography
 
@@ -57,6 +61,8 @@ It is very important that you have all of the guidelines in mind at the same tim
 
 7. Use only one font
 
+<br>
+
 ## Using Colors Like a Pro
 
 1. Use only one base color
@@ -69,6 +75,8 @@ It is very important that you have all of the guidelines in mind at the same tim
 
 5. Choose colors wisely
 
+<br>
+
 ## Working with Images
 
 1. Put text directly on the image
@@ -80,6 +88,8 @@ It is very important that you have all of the guidelines in mind at the same tim
 4. Blur the image
 
 5. The floor fade
+
+<br>
 
 ## Working with icons
 
@@ -95,6 +105,8 @@ It is very important that you have all of the guidelines in mind at the same tim
 
 6. Use icon fonts whenever possible
 
+<br>
+
 ## Spacing and layout
 
 1. Put whitespace between your elements
@@ -108,6 +120,8 @@ It is very important that you have all of the guidelines in mind at the same tim
 5. Establish a flow that corresponds to your content's message
 
 6. Use whitespace to build that flow
+
+<br>
 
 ## Improve your website's conversion
 
