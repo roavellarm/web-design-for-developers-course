@@ -1,3 +1,5 @@
+[<-- Back to README](../README.md)
+
 # TYPOGRAPHY
 
 1. Text font size should be between 15 - 25px

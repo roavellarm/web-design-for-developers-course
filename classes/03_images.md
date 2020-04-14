@@ -1,3 +1,5 @@
+[<-- Back to README](../README.md)
+
 # IMAGES
 
 ## 1. Put text directly on the image
