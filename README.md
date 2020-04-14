@@ -12,6 +12,7 @@ The course has the following contents:
 - [User Experience](classes/06_introduction_to_user_experience.md)
 - [Getting inspired](classes/07_getting_inspired.md)
 - [Your website conversion](classes/08_improve_your_website_conversion.md)
+- [Where to go from here](classes/09_where_to_go_from_here.md)
 
 <br>
 
